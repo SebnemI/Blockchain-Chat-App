@@ -1,9 +1,9 @@
 ﻿# Blockchain-Chat-App
  
- Dependecies: 
- Sanity/client
- Gun Js
- Next JS
- React JS
+ Dependecies: <br>
+ Sanity/client<br>
+ Gun Js<br>
+ Next JS<br>
+ React JS<br>
  Yarn
  
